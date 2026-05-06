@@ -6,10 +6,10 @@ import ramPhoto from '../assets/ram.png'
 const TECH_STACK = ['React 18', 'Vite 5', 'Tailwind CSS', 'React Router', 'HLS.js', 'Daunscode API']
 
 const SOCIAL_LINKS = [
-  { href: 'https://wa.me/6281234567890', icon: IconWhatsapp, label: 'WhatsApp', color: 'bg-green-600/20 text-green-400 hover:bg-green-600/40 border border-green-600/30' },
-  { href: 'https://github.com/ramofc', icon: IconGithub, label: 'GitHub', color: 'bg-white/10 text-gray-300 hover:bg-white/20 border border-white/20' },
-  { href: 'https://instagram.com/ramofc', icon: IconInstagram, label: 'Instagram', color: 'bg-pink-600/20 text-pink-400 hover:bg-pink-600/40 border border-pink-600/30' },
-  { href: 'mailto:ram@example.com', icon: IconGmail, label: 'Gmail', color: 'bg-red-600/20 text-red-400 hover:bg-red-600/40 border border-red-600/30' },
+  { href: 'https://wa.me/6285147142116', icon: IconWhatsapp, label: 'WhatsApp', color: 'bg-green-600/20 text-green-400 hover:bg-green-600/40 border border-green-600/30' },
+  { href: 'https://github.com/renntie', icon: IconGithub, label: 'GitHub', color: 'bg-white/10 text-gray-300 hover:bg-white/20 border border-white/20' },
+  { href: 'https://instagram.com/wakeupmarz', icon: IconInstagram, label: 'Instagram', color: 'bg-pink-600/20 text-pink-400 hover:bg-pink-600/40 border border-pink-600/30' },
+  { href: 'mailto:ammarashim18@gmail.com', icon: IconGmail, label: 'Gmail', color: 'bg-red-600/20 text-red-400 hover:bg-red-600/40 border border-red-600/30' },
 ]
 
 export default function AboutPage() {
